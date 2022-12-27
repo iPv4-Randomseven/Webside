@@ -2,7 +2,8 @@
 <p align="center">
 	<a href="javascript:void(1)"><img src="https://img.shields.io/badge/x--power--by-nginx-brightgreen" alt="X-POWER-BY"></a>
 	<a href="javascript:void(1)"><img src="https://img.shields.io/badge/version-v3.0.0-blue" alt="Version"></a>
-  <a href="javascript:void(1)"><img src="https://img.shields.io/npm/l/vue.svg?sanitize=true" alt="License"></a>
+  	<a href="javascript:void(1)"><img src="https://img.shields.io/npm/l/vue.svg?sanitize=true" alt="License"></a>
+	<a href="javascript:void(1)"><img src="https://img.shields.io/badge/Server-Aliyun-07c160" alt="server"></a>
 </p>
 
 <h2>🌈 3.0.0 (2022-12-31)</h2>
