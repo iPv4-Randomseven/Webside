@@ -7,12 +7,13 @@
 </p>
 
 <h2>🌈 3.0.0 (2022-12-31)</h2>
-<h3 id="🚀-features">🚀 Update </h3>
+<h3 id="🚀-Update">🚀 Update </h3>
 <ul style="list-style-type: disc;">
   <li>
     <t-tag size="small" theme="danger" variant="light">Index</t-tag>:
     <ul>
-      <li>更新若干内容，修复若干错误内容</li>
+      <li>手机端页面</li>
+      <li>更新若干内容</li>
     </ul>
   </li>
   <li>
@@ -24,7 +25,17 @@
   <li>
     <t-tag size="small" theme="danger" variant="light">Footer</t-tag>:
     <ul>
-      <li>更改了一些东西</li>
+      <li>自适应功能，手机端`footer`优化</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="🐞-BugFixes">🐞 Bug Fixes</h3>
+<ul style="list-style-type: disc;">
+  <li>
+    <t-tag size="small" theme="danger" variant="light">Index</t-tag>:
+    <ul>
+      <li>修复已知问题</li>
     </ul>
   </li>
 </ul>
